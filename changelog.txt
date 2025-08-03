@@ -1,2 +1,4 @@
 #fix in salary scale
-
+#v1.0.40 
+# update salary view 
+# fix and add reports
